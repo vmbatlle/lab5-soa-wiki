@@ -1,4 +1,4 @@
-This is the repository that we will use for the fifth assignment of the course 2018-2019. 
+This is the repository that we will use for the fifth assignment of the course 2019-2020. 
 
 The code implements a MVC client that allows to query for Tweets using the Twitter API. The logic for querying Twitter is implemented using [Apache Camel](http://camel.apache.org/), a rule-based routing and mediation engine that provides a Java object-based implementation of common SOA patterns such as [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/) using an API to configure routing and mediation rules. If you query for "cool" tweets, the client will show you all the tweets that contain the keyword "cool".
 
